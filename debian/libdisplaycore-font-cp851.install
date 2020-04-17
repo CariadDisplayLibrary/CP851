@@ -1,2 +1,2 @@
-CP851.cpp libraries/DisplayCore/CP851
-CP851.h libraries/DisplayCore/CP851
+src libraries/DisplayCore/CP851
+library.properties libraries/DisplayCore/CP851
